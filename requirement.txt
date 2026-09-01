@@ -1,0 +1,7 @@
+streamlit==1.48.0
+pandas==2.3.2
+requests==2.32.5
+openai==1.107.2
+python-dotenv==1.1.1
+plotly==6.3.0
+pytest==8.4.1
