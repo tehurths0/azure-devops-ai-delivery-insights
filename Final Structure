@@ -1,0 +1,23 @@
+azure-devops-delivery-insights/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .env.example
+├── .gitignore
+│
+├── config/
+│   └── config.py
+│
+├── src/
+│   ├── ado_client.py
+│   ├── query_parser.py
+│   ├── metrics.py
+│   ├── ai_gateway.py
+│   └── report_generator.py
+│
+├── data/
+│   └── sample_ado_data.csv
+│
+└── tests/
+    └── test_metrics.py
