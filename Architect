@@ -1,0 +1,35 @@
+                 MANAGER
+                    │
+                    ▼
+          ┌───────────────────┐
+          │    Streamlit UI   │
+          │                   │
+          │ Ask your question │
+          └─────────┬─────────┘
+                    │
+                    ▼
+          ┌───────────────────┐
+          │ Intent / Query    │
+          │ Processing        │
+          └─────────┬─────────┘
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+   YOUR ADO                   YOUR AI GATEWAY
+   Connection                  Connection
+          │                   │
+          ▼                   ▼
+   Azure DevOps           OpenAI-compatible
+   REST API               AI endpoint
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+          ┌───────────────────┐
+          │ Delivery Analysis │
+          └─────────┬─────────┘
+                    ▼
+          ┌───────────────────┐
+          │ Executive Summary │
+          │ Risks             │
+          │ Recommendations    │
+          └───────────────────┘
