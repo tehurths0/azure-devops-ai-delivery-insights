@@ -1,0 +1,36 @@
+ID,Team,WorkItemType,Title,State,CreatedDate,ClosedDate,CycleTime,LeadTime,Priority,Blocked,Sprint,PRCount
+1001,Team A,User Story,Customer dashboard enhancement,Done,2026-06-01,2026-06-06,5,7,2,No,Sprint 16,2
+1002,Team A,User Story,Payment workflow improvement,Done,2026-06-03,2026-06-10,7,9,1,No,Sprint 16,3
+1003,Team A,Bug,Login validation issue,Resolved,2026-06-05,2026-06-08,3,5,2,No,Sprint 16,1
+1004,Team A,Task,Database optimisation,Done,2026-06-07,2026-06-11,4,6,3,No,Sprint 16,1
+1005,Team A,User Story,Transaction search,Done,2026-06-10,2026-06-16,6,8,2,No,Sprint 17,2
+1006,Team A,Bug,Payment timeout defect,Resolved,2026-06-11,2026-06-18,7,9,1,Yes,Sprint 17,2
+1007,Team A,Task,API documentation,Done,2026-06-12,2026-06-15,3,5,3,No,Sprint 17,1
+1008,Team A,Feature,Reporting improvements,Done,2026-06-15,2026-06-25,10,13,2,No,Sprint 17,4
+1009,Team A,User Story,Notification preferences,Done,2026-06-18,2026-06-23,5,7,3,No,Sprint 18,2
+1010,Team A,Task,Automated testing,Active,, ,8,10,2,Yes,Sprint 18,1
+1011,Team A,Bug,Incorrect balance display,Closed,2026-06-20,2026-06-27,7,9,2,No,Sprint 18,2
+1012,Team A,User Story,Account settings,Done,2026-06-22,2026-06-28,6,8,3,No,Sprint 18,2
+1013,Team A,Task,Performance monitoring,Done,2026-06-24,2026-06-29,5,7,3,No,Sprint 18,1
+1014,Team A,Epic,Digital banking experience,Active,, ,9,15,1,No,Sprint 18,0
+1015,Team A,User Story,Mobile security update,Done,2026-06-25,2026-07-02,7,9,1,No,Sprint 18,3
+1016,Team A,Bug,Mobile crash issue,Resolved,2026-06-26,2026-07-01,5,7,1,No,Sprint 18,2
+1017,Team A,Task,Release preparation,Done,2026-06-27,2026-07-03,6,8,2,No,Sprint 18,1
+1018,Team B,User Story,Customer onboarding,Done,2026-06-01,2026-06-08,7,9,2,No,Sprint 16,2
+1019,Team B,User Story,Profile management,Done,2026-06-03,2026-06-09,6,8,2,No,Sprint 16,2
+1020,Team B,Bug,Registration issue,Resolved,2026-06-05,2026-06-07,2,4,1,No,Sprint 16,1
+1021,Team B,Task,Data migration,Active,, ,9,12,2,Yes,Sprint 17,0
+1022,Team B,Feature,Onboarding redesign,Done,2026-06-10,2026-06-20,10,13,1,No,Sprint 17,4
+1023,Team B,User Story,Email verification,Done,2026-06-12,2026-06-17,5,7,3,No,Sprint 17,1
+1024,Team B,Bug,Verification defect,Resolved,2026-06-15,2026-06-22,7,9,2,No,Sprint 17,2
+1025,Team B,Task,Analytics instrumentation,Done,2026-06-18,2026-06-24,6,8,3,No,Sprint 18,2
+1026,Team B,User Story,User preferences,Active,, ,8,11,2,No,Sprint 18,1
+1027,Team B,Bug,Notification defect,Closed,2026-06-20,2026-06-25,5,7,2,No,Sprint 18,1
+1028,Platform Team,Feature,CI pipeline improvement,Done,2026-06-01,2026-06-07,6,8,1,No,Sprint 16,5
+1029,Platform Team,Task,Infrastructure upgrade,Done,2026-06-03,2026-06-12,9,12,1,Yes,Sprint 16,3
+1030,Platform Team,Bug,Build pipeline failure,Resolved,2026-06-05,2026-06-08,3,5,1,No,Sprint 16,2
+1031,Platform Team,User Story,Developer portal update,Done,2026-06-08,2026-06-15,7,9,2,No,Sprint 17,3
+1032,Platform Team,Task,Monitoring improvements,Done,2026-06-10,2026-06-18,8,10,2,No,Sprint 17,2
+1033,Platform Team,Bug,Deployment alert issue,Resolved,2026-06-12,2026-06-20,8,10,2,Yes,Sprint 17,2
+1034,Platform Team,Epic,Engineering platform,Active,, ,12,18,1,No,Sprint 18,0
+1035,Platform Team,User Story,Developer access workflow,Done,2026-06-15,2026-06-23,8,10,2,No,Sprint 18,2
